@@ -1,0 +1,702 @@
+[
+  {
+    "id": "8ec4442f-34f0-4c65-a82e-9a1f2d5462b3",
+    "user_id": "5965bb48-a1d3-40d6-a746-c049d983bc76",
+    "user_name": "Lorenzo Cavalli",
+    "timestamp": "2025-02-13T12:03:50.168778+00:00",
+    "message": "Let's book the chef's table at Le Bernardin for my anniversary dinner."
+  },
+  {
+    "id": "4aaef78d-4059-4fa7-b139-4ef40ffaa793",
+    "user_id": "1a4b66ec-2fe6-46d8-9d6e-a81ec06bc5c5",
+    "user_name": "Lily O'Sullivan",
+    "timestamp": "2025-06-10T19:58:46.168782+00:00",
+    "message": "Is there a possibility for an upgrade on my flight to Singapore?"
+  },
+  {
+    "id": "3248ad4c-3616-4eea-99d5-7b2b096be296",
+    "user_id": "a1ac663a-277a-4782-a0ba-7efdca8ae2ee",
+    "user_name": "Amina Van Den Berg",
+    "timestamp": "2025-07-24T02:12:14.168786+00:00",
+    "message": "I'd like a car with a child seat ready at the airport pickup."
+  },
+  {
+    "id": "5829972e-31b3-466b-aefd-152dae912703",
+    "user_id": "6b6dc782-f40c-4224-b5d8-198a9070b097",
+    "user_name": "Thiago Monteiro",
+    "timestamp": "2025-02-26T15:08:45.168789+00:00",
+    "message": "Do you know if any Michelin-starred chefs are available for a private dinner?"
+  },
+  {
+    "id": "83617a61-41b9-4f71-8eac-4585bb25d7f3",
+    "user_id": "6b6dc782-f40c-4224-b5d8-198a9070b097",
+    "user_name": "Thiago Monteiro",
+    "timestamp": "2025-02-14T06:11:26.168792+00:00",
+    "message": "Please send confirmations for my restaurant bookings next month."
+  },
+  {
+    "id": "bd28820b-988c-4fcd-b3e1-cfcb97f544a9",
+    "user_id": "fc15e14c-f56f-4137-a7cd-797f90b61c93",
+    "user_name": "Layla Kawaguchi",
+    "timestamp": "2025-05-26T19:38:39.168795+00:00",
+    "message": "I've tried contacting the hotel regarding an issue; could you intervene?"
+  },
+  {
+    "id": "7cf20d84-5de6-4e0d-9f69-2235c320f129",
+    "user_id": "a1ac663a-277a-4782-a0ba-7efdca8ae2ee",
+    "user_name": "Amina Van Den Berg",
+    "timestamp": "2025-05-13T04:44:11.168799+00:00",
+    "message": "Where can I find the best vintage wine in Florence?"
+  },
+  {
+    "id": "506531f8-152f-4744-b65e-39e21722261f",
+    "user_id": "a1ac663a-277a-4782-a0ba-7efdca8ae2ee",
+    "user_name": "Amina Van Den Berg",
+    "timestamp": "2025-05-14T10:34:42.168802+00:00",
+    "message": "The theater tickets you recommended were fantastic—thank you!"
+  },
+  {
+    "id": "5be9e392-eb59-4e7b-b321-175bca34b928",
+    "user_id": "fc15e14c-f56f-4137-a7cd-797f90b61c93",
+    "user_name": "Layla Kawaguchi",
+    "timestamp": "2024-12-21T18:37:08.168806+00:00",
+    "message": "Can you find a suite with a piano for my stay in Vienna?"
+  },
+  {
+    "id": "d8faa84d-ab36-43d5-9c9a-d71778257588",
+    "user_id": "5965bb48-a1d3-40d6-a746-c049d983bc76",
+    "user_name": "Lorenzo Cavalli",
+    "timestamp": "2025-07-03T14:09:56.168809+00:00",
+    "message": "I'm looking for a bespoke tailor in Milan by January."
+  },
+  {
+    "id": "f18db701-5384-4351-89b4-72e54fc9f2a2",
+    "user_id": "1a4b66ec-2fe6-46d8-9d6e-a81ec06bc5c5",
+    "user_name": "Lily O'Sullivan",
+    "timestamp": "2025-06-07T19:08:12.168813+00:00",
+    "message": "Please cancel my spa appointment and reschedule it for Thursday."
+  },
+  {
+    "id": "c52cbc9c-76a7-4376-b0d1-08102bec69f4",
+    "user_id": "fc15e14c-f56f-4137-a7cd-797f90b61c93",
+    "user_name": "Layla Kawaguchi",
+    "timestamp": "2025-09-09T21:37:17.168816+00:00",
+    "message": "The polo event exceeded my expectations—credits to your team."
+  },
+  {
+    "id": "a1cfa7f5-e79f-4373-baf1-2c467994ba67",
+    "user_id": "e35ed60a-5190-4a5f-b3cd-74ced7519b4a",
+    "user_name": "Fatima El-Tahir",
+    "timestamp": "2025-09-07T01:36:31.168819+00:00",
+    "message": "The hotel mentioned my card was declined; can you confirm this?"
+  },
+  {
+    "id": "53f115f9-15b2-4517-9596-0bd36620ec5d",
+    "user_id": "5965bb48-a1d3-40d6-a746-c049d983bc76",
+    "user_name": "Lorenzo Cavalli",
+    "timestamp": "2025-03-07T11:44:51.168823+00:00",
+    "message": "Please arrange a private cruise for my family of 6 in the Bahamas."
+  },
+  {
+    "id": "ef6e77d3-f1b1-498a-ace9-13f199400a74",
+    "user_id": "e35ed60a-5190-4a5f-b3cd-74ced7519b4a",
+    "user_name": "Fatima El-Tahir",
+    "timestamp": "2025-01-01T18:22:59.168826+00:00",
+    "message": "Could you suggest a secluded beach resort in Bali?"
+  },
+  {
+    "id": "12498fd8-415c-49ca-9b73-a4e173359f75",
+    "user_id": "fc15e14c-f56f-4137-a7cd-797f90b61c93",
+    "user_name": "Layla Kawaguchi",
+    "timestamp": "2025-11-08T00:58:38.168829+00:00",
+    "message": "I want to book the conference suite for a meeting—ensure it's for tomorrow afternoon."
+  },
+  {
+    "id": "38542ff4-b017-4290-a2f6-c2f94e5a89f5",
+    "user_id": "a1ac663a-277a-4782-a0ba-7efdca8ae2ee",
+    "user_name": "Amina Van Den Berg",
+    "timestamp": "2025-05-31T04:14:28.168832+00:00",
+    "message": "My seating preference is always an aisle seat; please note this going forward."
+  },
+  {
+    "id": "e0ae7360-ba2b-447d-b85a-d0848696d676",
+    "user_id": "1a4b66ec-2fe6-46d8-9d6e-a81ec06bc5c5",
+    "user_name": "Lily O'Sullivan",
+    "timestamp": "2025-03-10T05:36:04.168836+00:00",
+    "message": "Is there an art exhibition happening in Paris next week?"
+  },
+  {
+    "id": "a2152169-f8d1-4c1c-b4cb-be9853bfe548",
+    "user_id": "1a4b66ec-2fe6-46d8-9d6e-a81ec06bc5c5",
+    "user_name": "Lily O'Sullivan",
+    "timestamp": "2024-11-19T02:55:59.168839+00:00",
+    "message": "Send me the top restaurant reservations in Tokyo from December 10th to the 15th."
+  },
+  {
+    "id": "d95ba949-f22e-4a94-9789-a0e23f0aa236",
+    "user_id": "1a4b66ec-2fe6-46d8-9d6e-a81ec06bc5c5",
+    "user_name": "Lily O'Sullivan",
+    "timestamp": "2024-11-19T06:55:18.168842+00:00",
+    "message": "I'd like a list of family-friendly villas in the South of France."
+  },
+  {
+    "id": "ae900a70-94b9-4388-8bbf-783e6a2867a6",
+    "user_id": "6b6dc782-f40c-4224-b5d8-198a9070b097",
+    "user_name": "Thiago Monteiro",
+    "timestamp": "2025-09-25T08:15:30.168845+00:00",
+    "message": "Regarding my upcoming trip, can you check if all services are in place?"
+  },
+  {
+    "id": "7bc0c9a2-b959-46fe-bfc1-538ad34ef614",
+    "user_id": "a1ac663a-277a-4782-a0ba-7efdca8ae2ee",
+    "user_name": "Amina Van Den Berg",
+    "timestamp": "2025-10-14T21:13:36.168849+00:00",
+    "message": "The jewelry boutique you suggested was extraordinary, thank you!"
+  },
+  {
+    "id": "3ed3de46-c5ba-412d-9deb-8964034e129f",
+    "user_id": "5965bb48-a1d3-40d6-a746-c049d983bc76",
+    "user_name": "Lorenzo Cavalli",
+    "timestamp": "2025-02-09T08:38:10.168852+00:00",
+    "message": "I'll need to extend my car rental in Dubai until the 25th."
+  },
+  {
+    "id": "22dfa84f-96bc-405d-b62d-2eb446915ee3",
+    "user_id": "fc15e14c-f56f-4137-a7cd-797f90b61c93",
+    "user_name": "Layla Kawaguchi",
+    "timestamp": "2025-02-27T05:27:59.168855+00:00",
+    "message": "Does the hotel in Maldives offer any wellness retreats this month?"
+  },
+  {
+    "id": "29abd2a0-8405-492e-a748-6d897f4dd4ae",
+    "user_id": "fc15e14c-f56f-4137-a7cd-797f90b61c93",
+    "user_name": "Layla Kawaguchi",
+    "timestamp": "2025-09-13T23:53:48.168859+00:00",
+    "message": "Please confirm my participation in the event on the 21st with VIP access."
+  },
+  {
+    "id": "569b99d7-7f5d-4562-8e06-1e55605ed5a8",
+    "user_id": "fc15e14c-f56f-4137-a7cd-797f90b61c93",
+    "user_name": "Layla Kawaguchi",
+    "timestamp": "2024-12-30T12:53:30.168864+00:00",
+    "message": "If possible, arrange a tour of the distilleries in Scotland."
+  },
+  {
+    "id": "330389ee-e721-4bdf-950b-a48c2cd5ae60",
+    "user_id": "fc15e14c-f56f-4137-a7cd-797f90b61c93",
+    "user_name": "Layla Kawaguchi",
+    "timestamp": "2025-07-31T23:47:48.168867+00:00",
+    "message": "Dinner last night was impeccable—kudos to your recommendation!"
+  },
+  {
+    "id": "0ac1996d-da52-4e70-8a4e-46ccd2a01850",
+    "user_id": "e35ed60a-5190-4a5f-b3cd-74ced7519b4a",
+    "user_name": "Fatima El-Tahir",
+    "timestamp": "2025-07-26T17:37:21.168871+00:00",
+    "message": "There's a discrepancy in the invoicing for last month's services; please assist."
+  },
+  {
+    "id": "750f3be3-316a-4452-aa3d-0ab9e0057cc3",
+    "user_id": "e35ed60a-5190-4a5f-b3cd-74ced7519b4a",
+    "user_name": "Fatima El-Tahir",
+    "timestamp": "2025-08-08T18:20:13.168874+00:00",
+    "message": "I require a private lift service from the airport to the helipad."
+  },
+  {
+    "id": "91643daa-66f5-4817-9421-f1744a31d2cf",
+    "user_id": "cd3a350e-dbd2-408f-afa0-16a072f56d23",
+    "user_name": "Sophia Al-Farsi",
+    "timestamp": "2025-05-31T16:01:54.168877+00:00",
+    "message": "What are the current Covid-19 restrictions for entering Switzerland?"
+  },
+  {
+    "id": "3949b6dd-4387-4ab5-9c9d-46afc10dc48e",
+    "user_id": "6b6dc782-f40c-4224-b5d8-198a9070b097",
+    "user_name": "Thiago Monteiro",
+    "timestamp": "2025-03-15T03:11:59.168881+00:00",
+    "message": "Secure a presidential suite in the hotel in Hong Kong for New Year's Eve."
+  },
+  {
+    "id": "65961a75-00b1-4320-8ffb-3d9ac7d471ff",
+    "user_id": "fc15e14c-f56f-4137-a7cd-797f90b61c93",
+    "user_name": "Layla Kawaguchi",
+    "timestamp": "2025-03-22T16:31:28.168885+00:00",
+    "message": "I would appreciate immediate confirmation on my flights to Peru."
+  },
+  {
+    "id": "e5952da6-d9de-4bc3-a0c9-3447d51b6763",
+    "user_id": "1a4b66ec-2fe6-46d8-9d6e-a81ec06bc5c5",
+    "user_name": "Lily O'Sullivan",
+    "timestamp": "2025-08-30T18:53:04.168888+00:00",
+    "message": "Our ski trip needs to be moved forward by two days; can you handle this?"
+  },
+  {
+    "id": "ce79a74f-e696-4f4d-853b-27fe749c6c97",
+    "user_id": "1a4b66ec-2fe6-46d8-9d6e-a81ec06bc5c5",
+    "user_name": "Lily O'Sullivan",
+    "timestamp": "2025-07-05T14:46:46.168891+00:00",
+    "message": "The concierge at the Four Seasons was outstanding—just wanted to say thanks!"
+  },
+  {
+    "id": "780f1e77-2fa9-46e4-bfea-6fb1c1431692",
+    "user_id": "23103ae5-38a8-4d82-af82-e9942aa4aefb",
+    "user_name": "Armand Dupont",
+    "timestamp": "2025-02-08T00:01:23.168894+00:00",
+    "message": "I'm looking for a pastry chef who can cater my wedding reception."
+  },
+  {
+    "id": "5ba96579-d6ad-4a0c-b2c5-7e23738a678d",
+    "user_id": "23103ae5-38a8-4d82-af82-e9942aa4aefb",
+    "user_name": "Armand Dupont",
+    "timestamp": "2025-01-22T14:17:46.168897+00:00",
+    "message": "Can you find a gallery that specializes in abstract art pieces?"
+  },
+  {
+    "id": "71bdaaa1-e230-4fc1-beeb-24e57252bf42",
+    "user_id": "e35ed60a-5190-4a5f-b3cd-74ced7519b4a",
+    "user_name": "Fatima El-Tahir",
+    "timestamp": "2025-04-28T00:47:07.168899+00:00",
+    "message": "We need a contingency plan for our road trip due to adverse weather."
+  },
+  {
+    "id": "d5ba5bc5-566a-4e7b-8638-749d01b3ad00",
+    "user_id": "5b2e7346-eef5-445d-a063-6c5267f04bf8",
+    "user_name": "Hans Müller",
+    "timestamp": "2024-11-11T17:52:11.168902+00:00",
+    "message": "My wife's birthday is on the 12th of December; any unique gift ideas?"
+  },
+  {
+    "id": "0a07f365-41dc-4ff6-b1b1-58c0dffd0297",
+    "user_id": "a1ac663a-277a-4782-a0ba-7efdca8ae2ee",
+    "user_name": "Amina Van Den Berg",
+    "timestamp": "2025-06-06T06:09:05.168905+00:00",
+    "message": "Let's explore rock climbing packages for next month's getaway."
+  },
+  {
+    "id": "7e0faf4b-1bcd-4003-9127-6d133a0829fd",
+    "user_id": "e35ed60a-5190-4a5f-b3cd-74ced7519b4a",
+    "user_name": "Fatima El-Tahir",
+    "timestamp": "2025-05-27T06:44:19.168908+00:00",
+    "message": "Please confirm my seating at the charity banquet on March 15th."
+  },
+  {
+    "id": "b21c9d4a-d1f9-4754-9d69-1061221ae638",
+    "user_id": "e35ed60a-5190-4a5f-b3cd-74ced7519b4a",
+    "user_name": "Fatima El-Tahir",
+    "timestamp": "2025-01-28T05:02:54.168911+00:00",
+    "message": "My child is interested in equestrian lessons; any recommendations?"
+  },
+  {
+    "id": "09de9f59-a8ff-4bcb-a60c-5765e395c609",
+    "user_id": "23103ae5-38a8-4d82-af82-e9942aa4aefb",
+    "user_name": "Armand Dupont",
+    "timestamp": "2025-02-06T00:34:14.168914+00:00",
+    "message": "Could you arrange for a babysitter during our stay in Los Angeles?"
+  },
+  {
+    "id": "c5004b6d-fbd4-4cb0-b730-ff2f7ff6677c",
+    "user_id": "e35ed60a-5190-4a5f-b3cd-74ced7519b4a",
+    "user_name": "Fatima El-Tahir",
+    "timestamp": "2025-08-14T09:11:04.168917+00:00",
+    "message": "The spa appointment you booked was divine—can't thank you enough!"
+  },
+  {
+    "id": "1729c341-0d82-4732-81f9-af391372e940",
+    "user_id": "e35ed60a-5190-4a5f-b3cd-74ced7519b4a",
+    "user_name": "Fatima El-Tahir",
+    "timestamp": "2025-04-26T12:27:30.168920+00:00",
+    "message": "Could you confirm dinner arrangements for a group of 8 on Wednesday?"
+  },
+  {
+    "id": "e39a8e5a-1d37-4205-9a41-22fa4da1f391",
+    "user_id": "a1ac663a-277a-4782-a0ba-7efdca8ae2ee",
+    "user_name": "Amina Van Den Berg",
+    "timestamp": "2024-12-23T16:29:04.168923+00:00",
+    "message": "Notify me if there are any changes to the itinerary for the Antigua trip."
+  },
+  {
+    "id": "1cfb70e4-05fb-4ed7-985f-6e4a7158f6eb",
+    "user_id": "5b2e7346-eef5-445d-a063-6c5267f04bf8",
+    "user_name": "Hans Müller",
+    "timestamp": "2025-05-27T19:56:26.168926+00:00",
+    "message": "I prefer non-smoking rooms only; ensure this is always followed."
+  },
+  {
+    "id": "1c129f7a-c18c-4bec-a0d1-277da770939e",
+    "user_id": "e35ed60a-5190-4a5f-b3cd-74ced7519b4a",
+    "user_name": "Fatima El-Tahir",
+    "timestamp": "2024-12-14T10:05:48.168929+00:00",
+    "message": "The advance payment for the cruise didn't go through; please check."
+  },
+  {
+    "id": "146d9f4d-c283-41d8-a215-837f9fe7a1fe",
+    "user_id": "130f1fb9-2ddf-4049-ad0e-9a270f0cb561",
+    "user_name": "Vikram Desai",
+    "timestamp": "2025-05-02T04:28:52.168932+00:00",
+    "message": "Let's push the dinner reservation to 8:30 PM instead of 7 PM."
+  },
+  {
+    "id": "5e586f18-f222-4af3-bdf4-0e134732b4e9",
+    "user_id": "1a4b66ec-2fe6-46d8-9d6e-a81ec06bc5c5",
+    "user_name": "Lily O'Sullivan",
+    "timestamp": "2025-09-16T13:44:33.168935+00:00",
+    "message": "Please suggest eco-friendly tourist attractions in Costa Rica."
+  },
+  {
+    "id": "33611842-1fe0-4fb8-a92e-064370eb57eb",
+    "user_id": "5b2e7346-eef5-445d-a063-6c5267f04bf8",
+    "user_name": "Hans Müller",
+    "timestamp": "2025-03-23T07:22:44.168938+00:00",
+    "message": "Is there a certified golfing coach who can provide private sessions?"
+  },
+  {
+    "id": "f1baecb7-fc4a-4130-aae8-dc030563c18f",
+    "user_id": "6b6dc782-f40c-4224-b5d8-198a9070b097",
+    "user_name": "Thiago Monteiro",
+    "timestamp": "2024-11-11T15:19:32.168942+00:00",
+    "message": "Get me two first-class tickets to Shanghai departing this Friday."
+  },
+  {
+    "id": "1160b738-82f1-47df-9754-a6906a3686e9",
+    "user_id": "23103ae5-38a8-4d82-af82-e9942aa4aefb",
+    "user_name": "Armand Dupont",
+    "timestamp": "2025-03-05T14:44:38.168945+00:00",
+    "message": "I need a caterer for an intimate gathering of 12."
+  },
+  {
+    "id": "50dbd502-4663-4526-867f-8e3e430e1b53",
+    "user_id": "1a4b66ec-2fe6-46d8-9d6e-a81ec06bc5c5",
+    "user_name": "Lily O'Sullivan",
+    "timestamp": "2025-08-07T04:44:18.168948+00:00",
+    "message": "Please grab tickets to the Monaco Grand Prix ASAP."
+  },
+  {
+    "id": "ef294f1e-8819-4265-be37-ef2c0815c099",
+    "user_id": "6b6dc782-f40c-4224-b5d8-198a9070b097",
+    "user_name": "Thiago Monteiro",
+    "timestamp": "2025-02-12T05:47:08.168950+00:00",
+    "message": "I prefer a five-star rating for all accommodations—keep that standard."
+  },
+  {
+    "id": "567c5f44-ae7a-49e0-bb01-885ba9ef585e",
+    "user_id": "23103ae5-38a8-4d82-af82-e9942aa4aefb",
+    "user_name": "Armand Dupont",
+    "timestamp": "2025-04-14T02:37:30.168953+00:00",
+    "message": "Could you check if the chartered jet is available earlier in the day?"
+  },
+  {
+    "id": "4ccc266e-d35c-4949-b555-a0858fc52170",
+    "user_id": "e35ed60a-5190-4a5f-b3cd-74ced7519b4a",
+    "user_name": "Fatima El-Tahir",
+    "timestamp": "2024-11-19T08:28:38.168956+00:00",
+    "message": "Are there suites available with a private pool in Santorini?"
+  },
+  {
+    "id": "df23a0c6-a082-49b3-90ca-1c81809c9408",
+    "user_id": "130f1fb9-2ddf-4049-ad0e-9a270f0cb561",
+    "user_name": "Vikram Desai",
+    "timestamp": "2025-07-06T14:01:59.168959+00:00",
+    "message": "Please confirm my appointment with the personal shopper at Harrods."
+  },
+  {
+    "id": "fc000c04-3b12-4295-ab29-de58420531e0",
+    "user_id": "130f1fb9-2ddf-4049-ad0e-9a270f0cb561",
+    "user_name": "Vikram Desai",
+    "timestamp": "2025-10-24T10:31:54.168962+00:00",
+    "message": "My son's graduation is next week; help me get exclusive access to the event."
+  },
+  {
+    "id": "1104f6fe-7cef-468c-9341-a5a89438ed6c",
+    "user_id": "130f1fb9-2ddf-4049-ad0e-9a270f0cb561",
+    "user_name": "Vikram Desai",
+    "timestamp": "2025-11-03T21:35:11.168965+00:00",
+    "message": "Can you set up a surprise dinner reservation for my anniversary, with the best view?"
+  },
+  {
+    "id": "bc0ec1e6-0d60-4455-8cc2-6075bb0e8e66",
+    "user_id": "1a4b66ec-2fe6-46d8-9d6e-a81ec06bc5c5",
+    "user_name": "Lily O'Sullivan",
+    "timestamp": "2025-08-02T12:28:01.168968+00:00",
+    "message": "Could you arrange therapeutic massages for two in our room tomorrow afternoon?"
+  },
+  {
+    "id": "9d89dc60-aefa-4bfd-af63-560de7524bcd",
+    "user_id": "6b6dc782-f40c-4224-b5d8-198a9070b097",
+    "user_name": "Thiago Monteiro",
+    "timestamp": "2025-05-14T12:59:14.168971+00:00",
+    "message": "I'll need extra ski gear for my family of four; can you manage that rental?"
+  },
+  {
+    "id": "b3cf2719-c1c3-49e4-822c-3f252914100a",
+    "user_id": "130f1fb9-2ddf-4049-ad0e-9a270f0cb561",
+    "user_name": "Vikram Desai",
+    "timestamp": "2025-02-25T04:31:48.168974+00:00",
+    "message": "I'm interested in attending the exclusive wine tasting event next month."
+  },
+  {
+    "id": "ff9d4585-c441-4597-91a4-c20d93226be4",
+    "user_id": "5965bb48-a1d3-40d6-a746-c049d983bc76",
+    "user_name": "Lorenzo Cavalli",
+    "timestamp": "2025-02-28T04:35:05.168978+00:00",
+    "message": "Any recommended private beaches for our stay in the Maldives?"
+  },
+  {
+    "id": "6b97b82e-b324-479f-8bea-d572a25f438f",
+    "user_id": "130f1fb9-2ddf-4049-ad0e-9a270f0cb561",
+    "user_name": "Vikram Desai",
+    "timestamp": "2025-05-07T18:08:09.168981+00:00",
+    "message": "I would like to swap my opera tickets for a later date; possible?"
+  },
+  {
+    "id": "f55b6ad5-cb56-4f21-a8ad-897e76b7320d",
+    "user_id": "1a4b66ec-2fe6-46d8-9d6e-a81ec06bc5c5",
+    "user_name": "Lily O'Sullivan",
+    "timestamp": "2025-06-15T10:13:46.168984+00:00",
+    "message": "The private dinner last night was unforgettable—thank you so much."
+  },
+  {
+    "id": "eef45a5e-a18a-425e-8b6a-173089849a5c",
+    "user_id": "5965bb48-a1d3-40d6-a746-c049d983bc76",
+    "user_name": "Lorenzo Cavalli",
+    "timestamp": "2025-06-21T04:57:21.168987+00:00",
+    "message": "Please investigate the unauthorized charges on my latest service invoice."
+  },
+  {
+    "id": "e0355e5d-a90e-4f14-9fc6-336e9a4c5ab2",
+    "user_id": "5b2e7346-eef5-445d-a063-6c5267f04bf8",
+    "user_name": "Hans Müller",
+    "timestamp": "2025-08-14T08:42:03.168989+00:00",
+    "message": "I need reservations for a New Year's Eve dinner that can host 10 guests."
+  },
+  {
+    "id": "53337ae7-8177-4001-b27a-eefc5dad1792",
+    "user_id": "5b2e7346-eef5-445d-a063-6c5267f04bf8",
+    "user_name": "Hans Müller",
+    "timestamp": "2024-12-26T05:55:13.168992+00:00",
+    "message": "My granddaughter is in town—could you suggest kid-friendly activities?"
+  },
+  {
+    "id": "87d2ea10-80d6-4367-b205-a7a1d185dd9e",
+    "user_id": "23103ae5-38a8-4d82-af82-e9942aa4aefb",
+    "user_name": "Armand Dupont",
+    "timestamp": "2025-08-17T17:41:53.168995+00:00",
+    "message": "Make sure to get us a reservation at the hardest-to-book spot in LA."
+  },
+  {
+    "id": "a8f4fa62-7bc0-4ee7-9540-5dd5fd3794d5",
+    "user_id": "23103ae5-38a8-4d82-af82-e9942aa4aefb",
+    "user_name": "Armand Dupont",
+    "timestamp": "2025-09-14T04:48:25.168998+00:00",
+    "message": "Can you secure an early check-in for the Milan hotel on the 10th?"
+  },
+  {
+    "id": "e6fc0ea0-063d-4629-9a52-28c8ff4eec32",
+    "user_id": "e35ed60a-5190-4a5f-b3cd-74ced7519b4a",
+    "user_name": "Fatima El-Tahir",
+    "timestamp": "2025-02-09T17:42:41.169001+00:00",
+    "message": "Double-check if the yacht has a chef onboard for our trip."
+  },
+  {
+    "id": "f8836f6e-0688-4086-80dc-200b2aab66db",
+    "user_id": "5b2e7346-eef5-445d-a063-6c5267f04bf8",
+    "user_name": "Hans Müller",
+    "timestamp": "2025-04-07T06:46:38.169004+00:00",
+    "message": "There's a delay in processing my theater ticket fees—can you resolve it?"
+  },
+  {
+    "id": "4a8b12b3-62c3-4937-9375-c9407de50693",
+    "user_id": "a1ac663a-277a-4782-a0ba-7efdca8ae2ee",
+    "user_name": "Amina Van Den Berg",
+    "timestamp": "2025-02-27T20:54:24.169007+00:00",
+    "message": "Customize a romantic getaway for two, preferably in Iceland next month."
+  },
+  {
+    "id": "37664f01-cc52-430c-8e42-c5cd36cb65df",
+    "user_id": "fc15e14c-f56f-4137-a7cd-797f90b61c93",
+    "user_name": "Layla Kawaguchi",
+    "timestamp": "2025-10-13T05:07:26.169018+00:00",
+    "message": "Is it a possibility to gain backstage access to the concert on the 20th?"
+  },
+  {
+    "id": "f88080a4-ba65-48bf-b10a-a814b5737791",
+    "user_id": "6b6dc782-f40c-4224-b5d8-198a9070b097",
+    "user_name": "Thiago Monteiro",
+    "timestamp": "2025-02-05T21:24:34.169022+00:00",
+    "message": "Please find an English-speaking guide for our Japan itinerary."
+  },
+  {
+    "id": "9ae3f4d0-f145-4d56-adef-530b346b93a9",
+    "user_id": "1a4b66ec-2fe6-46d8-9d6e-a81ec06bc5c5",
+    "user_name": "Lily O'Sullivan",
+    "timestamp": "2025-09-16T10:57:43.169025+00:00",
+    "message": "I would like to try an adventurous sport like skydiving—any recommended spots?"
+  },
+  {
+    "id": "e1cf3cc6-149b-4a5c-900f-b66ca33816a6",
+    "user_id": "5965bb48-a1d3-40d6-a746-c049d983bc76",
+    "user_name": "Lorenzo Cavalli",
+    "timestamp": "2025-09-20T22:35:24.169029+00:00",
+    "message": "Could you book a helicopter tour above the Australian coast?"
+  },
+  {
+    "id": "2eb49c1f-56ff-498f-8595-25ba1a612a3e",
+    "user_id": "fc15e14c-f56f-4137-a7cd-797f90b61c93",
+    "user_name": "Layla Kawaguchi",
+    "timestamp": "2024-12-30T12:20:31.169032+00:00",
+    "message": "Our flight was comfortable, and the hotel arrangement was perfect—thank you!"
+  },
+  {
+    "id": "1d55e9f1-8539-404a-8c59-b45807d1d54c",
+    "user_id": "1a4b66ec-2fe6-46d8-9d6e-a81ec06bc5c5",
+    "user_name": "Lily O'Sullivan",
+    "timestamp": "2025-07-23T23:36:16.169035+00:00",
+    "message": "I need a meeting room arranged for a video conference next Wednesday."
+  },
+  {
+    "id": "921b5cac-1e31-40fd-82c8-c1404e29945e",
+    "user_id": "1a4b66ec-2fe6-46d8-9d6e-a81ec06bc5c5",
+    "user_name": "Lily O'Sullivan",
+    "timestamp": "2025-02-17T11:37:46.169038+00:00",
+    "message": "Please ensure we have early boarding privileges on our flight next week."
+  },
+  {
+    "id": "483ed646-d2d6-440b-aa83-8680670be30b",
+    "user_id": "5965bb48-a1d3-40d6-a746-c049d983bc76",
+    "user_name": "Lorenzo Cavalli",
+    "timestamp": "2025-09-09T10:46:48.169041+00:00",
+    "message": "Arrange for two massage therapists for our spa event on the 5th."
+  },
+  {
+    "id": "d79cdcfc-f08d-417a-9f19-6d49570aaef7",
+    "user_id": "130f1fb9-2ddf-4049-ad0e-9a270f0cb561",
+    "user_name": "Vikram Desai",
+    "timestamp": "2025-10-12T09:24:12.169044+00:00",
+    "message": "Are there any language translation services during our business trip to Moscow?"
+  },
+  {
+    "id": "acd1936d-7d4d-4552-891c-d4fae504d8a3",
+    "user_id": "fc15e14c-f56f-4137-a7cd-797f90b61c93",
+    "user_name": "Layla Kawaguchi",
+    "timestamp": "2025-06-03T06:59:43.169047+00:00",
+    "message": "Would you mind booking a sports car for my stay in Monte Carlo?"
+  },
+  {
+    "id": "4229c07e-5a54-4035-ad6f-86b70b4ba5a8",
+    "user_id": "fc15e14c-f56f-4137-a7cd-797f90b61c93",
+    "user_name": "Layla Kawaguchi",
+    "timestamp": "2024-12-05T06:27:35.169050+00:00",
+    "message": "I had a marvelous stay at the hotel which you arranged; just wanted to thank you."
+  },
+  {
+    "id": "94dcdb62-9e8e-45a6-822e-2c0f9f19528c",
+    "user_id": "23103ae5-38a8-4d82-af82-e9942aa4aefb",
+    "user_name": "Armand Dupont",
+    "timestamp": "2025-09-30T13:36:44.169053+00:00",
+    "message": "My preferred dining time is 7 PM—keep that noted for all future reservations."
+  },
+  {
+    "id": "3837d96e-446c-4f66-9b7f-21b705f0c8d2",
+    "user_id": "5965bb48-a1d3-40d6-a746-c049d983bc76",
+    "user_name": "Lorenzo Cavalli",
+    "timestamp": "2025-08-09T02:55:07.169056+00:00",
+    "message": "Could you rectify the issue with the dinner check from last evening?"
+  },
+  {
+    "id": "59370ce2-c600-4d4d-9c36-16a9b26eb2fe",
+    "user_id": "23103ae5-38a8-4d82-af82-e9942aa4aefb",
+    "user_name": "Armand Dupont",
+    "timestamp": "2025-01-15T04:56:49.169059+00:00",
+    "message": "Reserve four rooms in the Alpine resort for the family trip from the 3rd to 8th."
+  },
+  {
+    "id": "f84c9817-e333-4170-8e50-c5617056be3b",
+    "user_id": "fc15e14c-f56f-4137-a7cd-797f90b61c93",
+    "user_name": "Layla Kawaguchi",
+    "timestamp": "2025-08-27T07:59:57.169062+00:00",
+    "message": "I need tickets to the sold-out show next Friday; can you manage this?"
+  },
+  {
+    "id": "d41dd052-e7c5-483a-b81d-0b34a13a35c4",
+    "user_id": "a1ac663a-277a-4782-a0ba-7efdca8ae2ee",
+    "user_name": "Amina Van Den Berg",
+    "timestamp": "2025-04-15T02:12:49.169065+00:00",
+    "message": "I'm impressed with your service—everything was handled flawlessly."
+  },
+  {
+    "id": "b09e2ef5-6c61-454f-8c3d-a791c9cbde79",
+    "user_id": "6b6dc782-f40c-4224-b5d8-198a9070b097",
+    "user_name": "Thiago Monteiro",
+    "timestamp": "2025-04-17T22:18:15.169068+00:00",
+    "message": "Do pack two extra pairs of skis for the upcoming trip to Switzerland."
+  },
+  {
+    "id": "1f2f4f1c-44e7-4f43-9edf-3a2b9781ec68",
+    "user_id": "cd3a350e-dbd2-408f-afa0-16a072f56d23",
+    "user_name": "Sophia Al-Farsi",
+    "timestamp": "2025-02-14T04:48:33.169071+00:00",
+    "message": "I need last-minute reservations at the top restaurant in town for ten people."
+  },
+  {
+    "id": "8c0a612f-974d-47a1-aadf-97591d283975",
+    "user_id": "5b2e7346-eef5-445d-a063-6c5267f04bf8",
+    "user_name": "Hans Müller",
+    "timestamp": "2025-08-08T10:06:44.169074+00:00",
+    "message": "We prefer a sunset sail on the yacht; please handle this request."
+  },
+  {
+    "id": "5cb8700a-f405-4d42-895b-f07240628302",
+    "user_id": "e35ed60a-5190-4a5f-b3cd-74ced7519b4a",
+    "user_name": "Fatima El-Tahir",
+    "timestamp": "2025-03-19T01:47:22.169076+00:00",
+    "message": "Is there a way to connect with local culinary experts for tasting local cuisines?"
+  },
+  {
+    "id": "7a3e6024-3bd8-41cf-9765-1fddcb553d67",
+    "user_id": "fc15e14c-f56f-4137-a7cd-797f90b61c93",
+    "user_name": "Layla Kawaguchi",
+    "timestamp": "2025-06-01T11:53:12.169080+00:00",
+    "message": "Secure the luxury villa with 5 bedrooms in Bora Bora for December."
+  },
+  {
+    "id": "a2bc66a3-4cf0-4b18-8610-161c2656f68e",
+    "user_id": "a1ac663a-277a-4782-a0ba-7efdca8ae2ee",
+    "user_name": "Amina Van Den Berg",
+    "timestamp": "2025-06-01T10:43:07.169083+00:00",
+    "message": "Please verify all appointments for my business trip next week."
+  },
+  {
+    "id": "bb19dcf4-1337-48ca-aa40-5abcc3ec2936",
+    "user_id": "cd3a350e-dbd2-408f-afa0-16a072f56d23",
+    "user_name": "Sophia Al-Farsi",
+    "timestamp": "2025-01-08T23:16:25.169086+00:00",
+    "message": "I am interested in a deep-sea fishing experience—when would be best?"
+  },
+  {
+    "id": "838347e6-bfb8-4bc4-bce1-112b09e585e5",
+    "user_id": "1a4b66ec-2fe6-46d8-9d6e-a81ec06bc5c5",
+    "user_name": "Lily O'Sullivan",
+    "timestamp": "2025-09-24T18:38:04.169089+00:00",
+    "message": "Could you recommend a health clinic for personalized wellness programs?"
+  },
+  {
+    "id": "d5e6b2e1-7815-47e3-b2da-5f1313607fb8",
+    "user_id": "fc15e14c-f56f-4137-a7cd-797f90b61c93",
+    "user_name": "Layla Kawaguchi",
+    "timestamp": "2025-09-26T23:39:56.169093+00:00",
+    "message": "I'd love for you to book our annual trip to Aspen earlier this year."
+  },
+  {
+    "id": "5c9e7f0b-15be-4b93-8d4b-4f574258be77",
+    "user_id": "fc15e14c-f56f-4137-a7cd-797f90b61c93",
+    "user_name": "Layla Kawaguchi",
+    "timestamp": "2025-10-22T06:43:39.169095+00:00",
+    "message": "Please get back to me with the latest fashion week calendar and events."
+  },
+  {
+    "id": "e898d572-d440-4964-966a-25699da0e194",
+    "user_id": "fc15e14c-f56f-4137-a7cd-797f90b61c93",
+    "user_name": "Layla Kawaguchi",
+    "timestamp": "2025-01-14T04:49:51.169099+00:00",
+    "message": "The flamenco show and tapas you arranged were simply outstanding—thank you!"
+  }
+]
