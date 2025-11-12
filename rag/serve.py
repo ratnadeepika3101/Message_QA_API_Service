@@ -68,6 +68,3 @@ def search_for_answer_llm(question: str, top_k: int = 10):
 def ask(request: QARequest):
     return search_for_answer_llm(request.question, top_k=request.top_k)
 
-if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 8000))  # default to 8000 if PORT not set
-    uvicorn.run(app, host="0.0.0.0", port=port)
